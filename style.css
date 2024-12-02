@@ -100,7 +100,7 @@
 
 .container {
   width: 100%;
-  background-image: url(./images/slide1-home1.jpg);
+  background-image: url(./slide1-home1.jpg);
   background-repeat: no-repeat;
   height: 95vh;
   justify-content: center;
@@ -276,7 +276,7 @@
 }
 
 .services-boxes:hover{
-  background-image: url(./images/box1.jpg);
+  background-image: url(./box1.jpg);
   background-size: cover;
   color:white;
 }
